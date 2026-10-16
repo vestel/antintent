@@ -1,4 +1,5 @@
 # AntIntent lifecycle artifacts (tracked exclusively on the local 'lifecycle' branch via .lifecycle/ worktree)
-/AGENTS.md
-/product/
-/.lifecycle/
+# Un-comment following 3 lines to start working using AntIntentLifeCycle
+#/AGENTS.md
+#/product/
+#/.lifecycle/

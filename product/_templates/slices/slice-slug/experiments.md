@@ -1,0 +1,13 @@
+# Experiments & Spikes: <Slice Title> (`slice-slug`)
+
+- **Slice Plan:** [plan.md](./plan.md)
+
+## Experiment Log
+<!-- Record technical hypotheses, quick prototypes, benchmarks, or error investigations conducted during this slice. -->
+
+### EXP-01: <Short Title>
+- **Date:** YYYY-MM-DD
+- **Hypothesis / Question:** ...
+- **Method:** ...
+- **Findings / Result:** ...
+- **Decision Impact:** ...
