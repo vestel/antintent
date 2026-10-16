@@ -1,0 +1,4 @@
+# AntIntent lifecycle artifacts (tracked exclusively on the local 'lifecycle' branch via .lifecycle/ worktree)
+/AGENTS.md
+/product/
+/.lifecycle/
